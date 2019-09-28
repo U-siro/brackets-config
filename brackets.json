@@ -1,0 +1,12 @@
+{
+    "brackets-eslint.gutterMarks": true,
+    "brackets-eslint.useLocalESLint": false,
+    "fonts.fontSize": "18px",
+    "fonts.fontFamily": "'SourceCodePro-Medium', ＭＳ ゴシック, 'MS Gothic', monospace",
+    "themes.theme": "dark-theme",
+    "livedev.multibrowser": true,
+    "closeBrackets": false,
+    "useTabChar": true,
+    "brackets-git.gitPath": "git",
+    "linting.collapsed": true
+}
