@@ -4,7 +4,7 @@
     "fonts.fontSize": "18px",
     "fonts.fontFamily": "'SourceCodePro-Medium', ＭＳ ゴシック, 'MS Gothic', monospace",
     "themes.theme": "dark-theme",
-    "livedev.multibrowser": true,
+    "livedev.multibrowser": false,
     "closeBrackets": false,
     "useTabChar": true,
     "brackets-git.gitPath": "git",
